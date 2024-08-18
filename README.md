@@ -17,6 +17,6 @@ Sometimes I will face the problem like :
     Failed to connect to github.com port 443 after 21090 ms: Couldn‘t connect to server  
 it could be solved by using the **VPN** or build the connection for you shell (**if you have already used the VPN but still suffer from that bug*),you can run:  
 ```bash  
-    git config --global http.proxy 127.0.0.1:7890 # 127.0.0.1:7890 is your VPN address  
-    git config --global https.proxy 127.0.0.1:7890  
+git config --global http.proxy 127.0.0.1:7890 # 127.0.0.1:7890 is your VPN address  
+git config --global https.proxy 127.0.0.1:7890  
 ```
