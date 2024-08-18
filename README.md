@@ -1,4 +1,4 @@
-# git_learning
+# Git_Learning
 Learning Journey Record
 ## Normal working stream  
 ```bash  
